@@ -1,5 +1,6 @@
 baseURL = "https://hugo-rajat-portfolio.web.app/"
 languageCode = "en-us"
+publishDir = "docs"
 paginate = 6
 theme = "portio-hugo-master"
 title = "Rajat"
@@ -60,3 +61,4 @@ weight = 2
 icon = "fa-facebook-official"
 url = "https://www.facebook.com/rajat.bhattarai.9/"
 weight = 3
+
