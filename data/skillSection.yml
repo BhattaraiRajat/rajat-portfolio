@@ -1,0 +1,23 @@
+---
+enable: true
+topTitle: My Skills
+content: >
+  ## Why hire me for your next project?
+
+  My goal is to build amazing softwares to solve various real world problems.
+
+image: images/skill/working.jpg
+
+skill:
+  - title: C++, C
+    percent: 90
+  - title: CUDA, Parallel Programming
+    percent: 70
+  - title: Python
+    percent: 80
+  - title: HTML
+    percent: 80
+  - title: CSS
+    percent: 70
+  - title: Javascript
+    percent: 70

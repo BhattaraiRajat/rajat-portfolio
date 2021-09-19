@@ -1,0 +1,19 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## About me
+
+  Motivated and highly enthusiastic individual, with a desire for learning new things of all kinds so as to apply the broad accumulated knowledge from education and experience, in solving various world problems.
+content: >
+  ### I solve problems.
+
+  I love programming. I love
+  to solve the computing problems and find easy and better solutions. I always
+  try my best to write an efficient and clean code. I have been
+  working as a software engineer from 2016 and developing many applications. I also have deep understanding and experience of working in multicultural environment: Nepal, Japan, Thailand and the USA.
+button1Name: Hire me
+button2Name: Download CV
+button1Target: contact
+button2Target: contact
+image: images/hero/Rajat.jpg

@@ -1,0 +1,58 @@
+baseURL = "http://rajatbhattarai.com.np/"
+languageCode = "en-us"
+paginate = 6
+theme = "portio-hugo-master"
+title = "Rajat"
+# Main Menu
+[[menu.main]]
+name = "Home"
+url = "#home"
+weight = 1
+[[menu.main]]
+name = "About"
+url = "#about"
+weight = 2
+[[menu.main]]
+name = "Resume"
+url = "#resume"
+weight = 4
+[[menu.main]]
+name = "Contact"
+url = "#contact"
+weight = 5
+
+# Sitemap Menu
+[[menu.sitemap]]
+name = "About me"
+url = "#"
+
+[params]
+blogPageURL = "blog"
+contactLink = "contact"
+copyright = "All right reserved copyright © Rajat Bhattarai 2021"
+footerLogo = "images/site-navigation/Rajat-Logo.png"
+formspreeURL = "YOUR FORMSPREE URL"
+googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+logo = "images/site-navigation/Rajat-Logo-1.png"
+
+[params.address]
+address = "540W, 4th Street, Cookeville, TN."
+email = "rbhattara43@tntech.edu"
+openingHours = "Open from 9am to 5pm (Monday to Friday)"
+phone = "+1 931 713 0248"
+
+
+# Social icons
+[[params.social]]
+[[params.social]]
+icon = "fa-linkedin-square"
+url = "https://www.linkedin.com/in/bhattarairajat/"
+weight = 1
+[[params.social]]
+icon = "fa-github-square"
+url = "https://github.com/BhattaraiRajat"
+weight = 2
+[[params.social]]
+icon = "fa-facebook-official"
+url = "https://www.facebook.com/rajat.bhattarai.9/"
+weight = 3

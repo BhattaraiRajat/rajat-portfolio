@@ -1,0 +1,13 @@
+---
+enable: true
+topTitle: Hello, I am Rajat
+content: >
+  # A PhD student of Computer Science
+
+  I love to solve various computing problems and research primarily on High Performance Computing.
+
+buttonName: Contact me
+buttonURL: contact
+image: images/hero/IMG_4138.jpg
+videoThumb: images/hero/popup-thumb.png
+videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ

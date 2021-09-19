@@ -1,0 +1,44 @@
+---
+enable: true
+topTitle: My Resume
+title:
+  ## My Expertises
+  Experience of 3 years in Development as Software/System Engineer specializing in C++, CUDA Parallel Programming and Computer Aided Engineering, Hands on experience with python and in developing web and mobile apps
+
+  , Experience of 1 year in Management as Head of Technology of a startup in Nepal
+tab1Name: Education
+tab2Name: Experiences
+tab1Target: education
+tab2Target: experience
+
+education:
+  - content: >
+      #### Doctorate in Computer Science Engineering
+
+      Tennessee Technological University
+    time: 2021-present
+  - content: >
+      #### Bachelors in Electronics and Communication Engineering
+
+      Pulchowk Campus, Institute of Engineering, Tribhuwan University
+    time: 2012-2016
+
+experience:
+  - content: >
+      #### Tennessee Technological University
+
+      Graduate Research Assistant working in HPC lab
+
+    time: 2021-Present
+  - content: >
+      #### Dakshya Nepal Pvt. Ltd. 
+
+      Head of Technology, 
+
+      Responsible for overseeing the infrastructure of technical operations, managing a team of IT employees and projects, tracking technology in order to achieve business goals
+    time: 2020-2021
+  - content: >
+      #### E&T Nepal Pvt. Ltd. 
+
+      Software Engineer, Worked on C++ Programming, Boost libraries, CUDA, Parallel GPU programming, Catia Design and Modeling, Computer Aided Engineering, OpenCascade and Spatial libraries
+    time: 2016-2020
