@@ -20,5 +20,17 @@
         {{ end }}
       </ul>
     </div>
+
+    <div>
+      <ul class="unstyle-list">
+        {{ $social := .Site.Params.social }}
+        {{ range $social }}
+        <li class="d-inline-block mx-2"><a class="text-dark" target="_blank" href="{{ .url }}"><i
+              class="fa {{ .icon }}"></i></a>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+
   </div>
 </nav>

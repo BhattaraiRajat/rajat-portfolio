@@ -1,4 +1,4 @@
-baseURL = "http://rajatbhattarai.com.np/"
+baseURL = "https://hugo-rajat-portfolio.web.app/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio-hugo-master"
@@ -12,6 +12,10 @@ weight = 1
 name = "About"
 url = "#about"
 weight = 2
+[[menu.main]]
+name = "Portfolio"
+url = "#portfolio"
+weight = 3
 [[menu.main]]
 name = "Resume"
 url = "#resume"
@@ -30,7 +34,7 @@ url = "#"
 blogPageURL = "blog"
 contactLink = "contact"
 copyright = "All right reserved copyright © Rajat Bhattarai 2021"
-footerLogo = "images/site-navigation/Rajat-Logo.png"
+footerLogo = "images/site-navigation/rajat-footer.png"
 formspreeURL = "YOUR FORMSPREE URL"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/site-navigation/Rajat-Logo-1.png"

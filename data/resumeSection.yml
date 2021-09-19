@@ -16,7 +16,7 @@ education:
       #### Doctorate in Computer Science Engineering
 
       Tennessee Technological University
-    time: 2021-present
+    time: 2021-Present
   - content: >
       #### Bachelors in Electronics and Communication Engineering
 
@@ -30,15 +30,16 @@ experience:
       Graduate Research Assistant working in HPC lab
 
     time: 2021-Present
+    position: Graduate Research Assistant
   - content: >
       #### Dakshya Nepal Pvt. Ltd. 
 
-      Head of Technology, 
-
       Responsible for overseeing the infrastructure of technical operations, managing a team of IT employees and projects, tracking technology in order to achieve business goals
     time: 2020-2021
+    position: Head of Technology
   - content: >
       #### E&T Nepal Pvt. Ltd. 
 
-      Software Engineer, Worked on C++ Programming, Boost libraries, CUDA, Parallel GPU programming, Catia Design and Modeling, Computer Aided Engineering, OpenCascade and Spatial libraries
+      Worked on C++ Programming, Boost libraries, CUDA, Parallel GPU programming, Catia Design and Modeling, Computer Aided Engineering, OpenCascade and Spatial libraries
     time: 2016-2020
+    position: Software Engineer, Project Manager
