@@ -5,7 +5,8 @@ title:
   ## My Expertises
   Experience of 3 years in Development as Software/System Engineer specializing in C++, CUDA Parallel Programming and Computer Aided Engineering, Hands on experience with python and in developing web and mobile apps
 
-  , Experience of 1 year in Management as Head of Technology of a startup in Nepal
+  , Experience of 1 year in Management as Head of Technology of a startup in Nepal,
+  Experience of 3 years in Research as Graduate Student Researcher in Tennessee Technological University and New Mexico Consortium.
 tab1Name: Education
 tab2Name: Experiences
 tab1Target: education
@@ -25,16 +26,23 @@ education:
 
 experience:
   - content: >
+      #### New Mexico Consortium
+
+      Working on a project to enhance resource managers, schedulers and application runtime, the elements of HPC Software infrastructure to better support malleable workflow managers
+
+    time: 2023 May-2023 August
+    position: Student Researcher
+  - content: >
       #### Tennessee Technological University
 
-      Graduate Research Assistant working in HPC lab
+      Researching resource management support for elastic MPI parallel applications. Also working on web and mobile app development for the Liquid Earth Lake project funded by NASA, a lake storage monitoring system that tracks lake storage all over the world.
 
     time: 2021-Present
     position: Graduate Research Assistant
   - content: >
       #### Dakshya Nepal Pvt. Ltd. 
 
-      Responsible for overseeing the infrastructure of technical operations, managing a team of IT employees and projects, tracking technology in order to achieve business goals
+      Oversaw the infrastructure of technical operations, managed a team of IT employees and projects, tracking technology to achieve business goals
     time: 2020-2021
     position: Head of Technology
   - content: >

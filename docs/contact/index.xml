@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact Me on Rajat</title>
-    <link>https://hugo-rajat-portfolio.web.app/contact/</link>
+    <link>http://www.rajatbhattarai.com.np/contact/</link>
     <description>Recent content in Contact Me on Rajat</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://hugo-rajat-portfolio.web.app/contact/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://www.rajatbhattarai.com.np/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

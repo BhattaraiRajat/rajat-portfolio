@@ -2,9 +2,9 @@
 enable: true
 topTitle: Hello, I am Rajat
 content: >
-  # A PhD student of Computer Science
+  # A student of PhD in Computer Science
 
-  I love to solve various computing problems and research primarily on High Performance Computing.
+  I love solving various issues related to high-performance computing, and parallel and distributed systems.
 
 buttonName: Contact me
 buttonURL: contact

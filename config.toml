@@ -1,6 +1,5 @@
-baseURL = "https://hugo-rajat-portfolio.web.app/"
+baseURL = "https://www.rajatbhattarai.com.np/"
 languageCode = "en-us"
-publishDir = "docs"
 paginate = 6
 theme = "portio-hugo-master"
 title = "Rajat"
@@ -34,14 +33,14 @@ url = "#"
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "All right reserved copyright © Rajat Bhattarai 2021"
+copyright = "All right reserved copyright © Rajat Bhattarai 2023"
 footerLogo = "images/site-navigation/rajat-footer.png"
 formspreeURL = "YOUR FORMSPREE URL"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/site-navigation/Rajat-Logo-1.png"
 
 [params.address]
-address = "540W, 4th Street, Cookeville, TN."
+address = "Bruner 408,  HPC Lab, Department of Computer Science, Tennessee Tech University"
 email = "rbhattara43@tntech.edu"
 openingHours = "Open from 9am to 5pm (Monday to Friday)"
 phone = "+1 931 713 0248"

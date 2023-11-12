@@ -9,15 +9,11 @@ content: >
 image: images/skill/rajat-tokyo.jpg
 
 skill:
-  - title: C++, C
+  - title: C++, C, Python
     percent: 90
-  - title: CUDA, Parallel Programming
-    percent: 70
-  - title: Python
+  - title: CUDA, OpenMP and MPI Parallel Programming
+    percent: 90
+  - title: Mobile App Development technologies like React Native and Expo
     percent: 80
-  - title: HTML, CSS
+  - title: Web app Developement Javascript, React, Node, PHP, Laravel
     percent: 80
-  - title: Javascript, React, Node
-    percent: 70
-  - title: PHP, Laravel
-    percent: 70

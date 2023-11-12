@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolios on Rajat</title>
-    <link>https://hugo-rajat-portfolio.web.app/portfolio/</link>
+    <link>http://www.rajatbhattarai.com.np/portfolio/</link>
     <description>Recent content in Portfolios on Rajat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Aug 2021 18:19:35 +0600</lastBuildDate><atom:link href="https://hugo-rajat-portfolio.web.app/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Aug 2021 18:19:35 +0600</lastBuildDate><atom:link href="http://www.rajatbhattarai.com.np/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Liquid Earth Lake</title>
-      <link>https://hugo-rajat-portfolio.web.app/portfolio/project-liquid-earth-lake/</link>
+      <link>http://www.rajatbhattarai.com.np/portfolio/project-liquid-earth-lake/</link>
       <pubDate>Thu, 19 Aug 2021 18:19:35 +0600</pubDate>
       
-      <guid>https://hugo-rajat-portfolio.web.app/portfolio/project-liquid-earth-lake/</guid>
+      <guid>http://www.rajatbhattarai.com.np/portfolio/project-liquid-earth-lake/</guid>
       <description>I am working on web and mobile app development for the project.</description>
     </item>
     
     <item>
       <title>Dakshya CMS</title>
-      <link>https://hugo-rajat-portfolio.web.app/portfolio/project-dakshya/</link>
+      <link>http://www.rajatbhattarai.com.np/portfolio/project-dakshya/</link>
       <pubDate>Sat, 15 Aug 2020 18:19:35 +0600</pubDate>
       
-      <guid>https://hugo-rajat-portfolio.web.app/portfolio/project-dakshya/</guid>
+      <guid>http://www.rajatbhattarai.com.np/portfolio/project-dakshya/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Project Meviy</title>
-      <link>https://hugo-rajat-portfolio.web.app/portfolio/project-meviy/</link>
+      <link>http://www.rajatbhattarai.com.np/portfolio/project-meviy/</link>
       <pubDate>Sun, 15 Oct 2017 12:49:27 +0600</pubDate>
       
-      <guid>https://hugo-rajat-portfolio.web.app/portfolio/project-meviy/</guid>
+      <guid>http://www.rajatbhattarai.com.np/portfolio/project-meviy/</guid>
       <description>I have collaborated with team in Japan to develop many features of this project.</description>
     </item>
     
     <item>
       <title>Project Mujo</title>
-      <link>https://hugo-rajat-portfolio.web.app/portfolio/project-mujo/</link>
+      <link>http://www.rajatbhattarai.com.np/portfolio/project-mujo/</link>
       <pubDate>Sun, 15 Jan 2017 12:49:27 +0600</pubDate>
       
-      <guid>https://hugo-rajat-portfolio.web.app/portfolio/project-mujo/</guid>
+      <guid>http://www.rajatbhattarai.com.np/portfolio/project-mujo/</guid>
       <description>I have worked on development, benchmark testing, programming and documenting for the improvement of Computational Fluid Dynamics (CFD) solver of MUJO</description>
     </item>
     
